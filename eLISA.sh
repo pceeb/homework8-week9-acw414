@@ -1,9 +1,10 @@
 #!/bin/bash
 
-#This is the main script for eLISA
-#It runs the Python code and then the R code
+#please run this code. it is the main script for eLISA and runs the Python and R sections.
+
 #It takes the file to be analyzed as the input
-#Usage = sh eLISA.sh inputfile.txt
+
+#Usage = sh eLISA.sh sampleinput_Fish_taxonomy_file.txt
 
 inputerror=".........
 WARNING: INPUT ERROR.
